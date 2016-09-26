@@ -1,0 +1,14 @@
+---
+title: Data Structures for LIDAR
+subtitle: durante estancia en CiTIUS
+layout: default
+modal-id: 7
+date: 2016-07-31
+img: lidar.png
+thumbnail: lidar-thumbnail.png
+alt: image-alt
+project-date: June 2016
+client: Start Bootstrap
+category: HPC
+description: Diseño de una estructura de datos para el tratamiento, en tiempo real, de nubes de puntos obteninas a partir de sensores LIDAR. <br/>Desarrollado por uno de nosotros durante una beca de colaboración con el CiTIUS.
+---
