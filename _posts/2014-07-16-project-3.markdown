@@ -4,7 +4,7 @@ subtitle: Análisis semiautomático de imágenes
 layout: default
 modal-id: 3
 date: 2016-07-01
-img: neuronas.png
+img: neuronas.jpg
 thumbnail: neuronas-thumbnail.png
 alt: image-alt
 project-date: Julio 2016
