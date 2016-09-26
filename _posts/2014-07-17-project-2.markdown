@@ -4,8 +4,8 @@ subtitle: Media Creator
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: zambuseta.png
-thumbnail: zambuseta-thumbnail.png
+img: zambuseta.jpg
+thumbnail: zambuseta-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Us
