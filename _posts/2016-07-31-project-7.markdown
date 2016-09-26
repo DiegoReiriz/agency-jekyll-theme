@@ -4,8 +4,8 @@ subtitle: durante estancia en CiTIUS
 layout: default
 modal-id: 7
 date: 2016-07-31
-img: lidar.png
-thumbnail: lidar-thumbnail.png
+img: lidar.gif
+thumbnail: lidar-thumbnail.gif
 alt: image-alt
 project-date: June 2016
 client: Start Bootstrap
