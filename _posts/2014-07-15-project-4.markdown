@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Entroido Verín
+subtitle: Mobile App
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2016-02-02
+img: verin.jpg
+thumbnail: verin-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Us
+category: Android Development
+description: Aplicación oficial del carnaval de Verín, uno de los carnavales más conocidos de Galicia. Esta app integra diversa información sobre la celebración con un apartado social, vinculado a twitter. Entroido Verín ha superado las 1000 descargas y ha sido mencionada en la prensa. https://play.google.com/store/apps/details?id=es.develover.joker.entroido
 
 ---
