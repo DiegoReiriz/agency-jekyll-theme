@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2016-02-13
 img: alien13.jpg
-thumbnail: alien13-thumbnail.png
+thumbnail: alien13-thumbnail.jpg
 alt: image-alt
 project-date: February 2016
 client: Us
