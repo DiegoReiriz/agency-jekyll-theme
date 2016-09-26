@@ -14,44 +14,42 @@ people:
   position: Ingeniero x 2
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://twitter.com/denisromasanta
+    - title: linkedin
+      url: https://www.linkedin.com/in/denis-romasanta-rodr%C3%ADguez-0b7a5a116
+    - title: github
+      url: https://github.com/notanumber11
 
 - name: Pablo Dobarro
   pic: 2
   position: Me importa que quede bonito
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/Zambuseta
+    - title: youtube
+      url: https://www.youtube.com/user/Zambuseta
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/pablodobarro
 
 - name: Armando Nogueira
   pic: 3
   position: Hackerman
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://es.linkedin.com/in/armando-nogueira-rio-25ba67116
+    - title: github
+      url: https://github.com/snooze6
       
 - name: Diego Reiriz
   pic: 4
   position: Facilitador & Developer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/diegoreico
+    - title: linkedin
+      url: https://www.linkedin.com/in/diego-reiriz-cores-33904696
+    - title: stack-overflow
+      url: http://stackoverflow.com/users/5453610/diego-reiriz-cores
       
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
