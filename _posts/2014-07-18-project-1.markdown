@@ -4,7 +4,7 @@ subtitle: Made by the hackerman
 layout: default
 modal-id: 1
 date: 2016-02-13
-img: alien13.png
+img: alien13.jpg
 thumbnail: alien13-thumbnail.png
 alt: image-alt
 project-date: February 2016
