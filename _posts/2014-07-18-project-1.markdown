@@ -10,8 +10,5 @@ alt: image-alt
 project-date: February 2016
 client: Us
 category: Hardware
-description: Descifrado del protocolo de comunicación del programa Alienware Command Center y reimplementación del mismo para sistemas UNIX
-
-https://github.com/snooze6/hack-alienfx
-
+description: Descifrado del protocolo de comunicación del programa Alienware Command Center y reimplementación del mismo para sistemas UNIX https://github.com/snooze6/hack-alienfx
 ---
