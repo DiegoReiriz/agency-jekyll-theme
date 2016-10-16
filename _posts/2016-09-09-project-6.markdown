@@ -3,11 +3,11 @@ title: LatinGal
 subtitle: Diccionario Galego - Latín
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2016-09-09
+img: latingal.jpg
+thumbnail: latingal-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: August 2019
 client: Start Bootstrap
 category: Education
 description: Diccionario offline de gallego a latín destinado al ámbito educativo, con sugerencias de búsqueda, búsqueda instantánea y otras cosas fancy
